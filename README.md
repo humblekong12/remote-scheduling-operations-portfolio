@@ -52,7 +52,7 @@ Interview Scheduler
 
 Dear [Spencer],
 
-We missed you for our scheduled interview today at [2:PM EST]. We understand that unexpected conflicts arise, and we would love to get you back on the schedule. 
+We missed you for our scheduled interview today at [2:00 PM EST]. We understand that unexpected conflicts arise, and we would love to get you back on the schedule. 
 
 Our recruiters are still very interested in reviewing your application. 
 
